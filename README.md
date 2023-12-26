@@ -31,7 +31,7 @@ To run the Snake game locally, follow these steps:
    git clone https://github.com/MustafaShehata/snake-game.git
 
 
-2- Open the "index.html" file in your web browser.
+2. Open the "index.html" file in your web browser.
 
 ## How To Play
 
